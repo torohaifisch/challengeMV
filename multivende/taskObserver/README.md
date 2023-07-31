@@ -31,5 +31,3 @@ npm run dev
 ```
 
 Este repositorio contiene el archivo .env solo para facilitar la ejecución del proyecto por ustedes, ya que no debería incluirse en el repo.
-
-Abrir [http://localhost:3000](http://localhost:3000) en el browser.
